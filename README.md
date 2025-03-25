@@ -25,8 +25,8 @@ Prosty system zarządzania biblioteką z REST API, napisany w .NET 8.
 ## 🔧 Technologie
 
 - **Backend**:  
-  ![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?logo=dotnet)
-  ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-7.0.11-blueviolet)
+  ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
+  ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-9.0.4-blueviolet)
   ![Swagger](https://img.shields.io/badge/Swagger-23.0-green?logo=swagger)
 
 - **Testy**:  
@@ -43,7 +43,7 @@ Prosty system zarządzania biblioteką z REST API, napisany w .NET 8.
 
 2. **Uruchomienie API**:
    ```bash
-   git clone https://github.com/twoj-login/LibraryAPI.git
+   git clone https://github.com/adakde/LibrarySystemApi.git
    cd LibraryAPI
    dotnet run
 Dokumentacja API:
