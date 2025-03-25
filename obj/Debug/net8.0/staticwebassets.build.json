@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "vRP9ds/t+xWSH0Eh2OEOUJd0i49j9kN5g8URdImiYQw=",
+  "Source": "LibraryApi",
+  "BasePath": "_content/LibraryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibraryApi\\wwwroot",
+      "Source": "LibraryApi",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\LibaryApi\\LibaryApi\\wwwroot\\",
+      "BasePath": "_content/LibraryApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\LibaryApi\\LibaryApi\\wwwroot\\index.html",
+      "SourceId": "LibraryApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\LibaryApi\\LibaryApi\\wwwroot\\",
+      "BasePath": "_content/LibraryApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

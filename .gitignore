@@ -1,0 +1,7 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.vsp
+*.psess
+FileContentIndex/
